@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Hoàng ở đây để tư vấn bạn về Trợ Lý A.I.
 Bạn inbox nội dung cần tư vấn giúp Hoàng nhé 
+=======
+Michael ở đây để tư vấn bạn về Trợ Lý A.I.
+Bạn inbox nội dung cần tư vấn giúp Michael nhé 
+>>>>>>> 1549470f037b7459eafd2a105e9f3b9be6b704ce
