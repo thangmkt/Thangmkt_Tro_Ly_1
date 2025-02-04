@@ -1,5 +1,3 @@
 <<<<<<< HEAD
-Xin Chào, Mình Là Hoàng - Trợ Lý Ảo Của Anh Lập Trình
-=======
-Xin Chào, Mình Là Michael - Trợ Lý Ảo Của Thangmkt
->>>>>>> 1549470f037b7459eafd2a105e9f3b9be6b704ce
+in Chào, Mình Là Michael - Trợ Lý Ảo Của Thangmkt
+>>>>>>> 
